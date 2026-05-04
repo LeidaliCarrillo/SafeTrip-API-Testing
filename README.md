@@ -4,7 +4,7 @@
 
 This project focuses on performing both automated and manual quality assurance (QA) testing for a trip reservation system based on APIs. 
 The goal was to ensure reliability, performance, and correctness of the system by validating endpoints, workflows, and data integrity.
-
+-------------
 🚀 Technologies Used
 - Java – For automated test development
 - Postman – For API testing and request validation
